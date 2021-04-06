@@ -19,7 +19,7 @@ install.packages(c("maps", "mapproj"))
 
 ```R
 # To run it, please use the following command:
-shiny::runGitHub("CrimeRateUSA", "CodingNina", ref ="main")
+shiny::runGitHub("CriminiUSA", "CodingNina", ref ="main")
 ```
 
 <h2> Dataset </h2>
