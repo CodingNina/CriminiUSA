@@ -4,7 +4,7 @@ library(maps)
 library(mapproj)
 
 
-USArrests <- read.csv(file = '~/CriminiUSA/data/USArrests.csv')
+USArrests <- read.csv(file = 'data/USArrests.csv')
 
 source("~/CriminiUSA/helpers.R")
 
