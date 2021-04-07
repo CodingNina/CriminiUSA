@@ -6,7 +6,7 @@ library(mapproj)
 
 USArrests <- read.csv(file = 'data/USArrests.csv')
 
-source("~/CriminiUSA/helpers.R")
+source("helpers.R")
 
 # User interface ----
 ui <- fluidPage(
